@@ -1,0 +1,3 @@
+model\PostAndGetResponseData.class
+model\PutAndPatchResponseData.class
+parser\JsonParser.class
